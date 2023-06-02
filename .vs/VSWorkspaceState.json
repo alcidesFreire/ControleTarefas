@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ControleTarefas.API",
+    "\\ControleTarefas.API\\Controllers",
+    "\\ControleTarefas.API\\Data",
+    "\\ControleTarefas.API\\Data\\Map",
+    "\\ControleTarefas.API\\Models"
+  ],
+  "SelectedNode": "\\ControleTarefas.API\\Data\\ControleTarefasDBContext.cs",
+  "PreviewInSolutionExplorer": false
+}
